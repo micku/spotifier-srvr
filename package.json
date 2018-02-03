@@ -1,0 +1,16 @@
+{
+  "name": "spotifier-srvr",
+  "version": "0.0.1",
+  "description": "Spotifier APIs",
+  "main": "index.js",
+  "repository": "https://github.com/micku/spotifier-srvr",
+  "author": "Michele Gargiulo <michele@grg.io>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.3"
+  },
+  "scripts": {
+  }
+}
